@@ -1,0 +1,27 @@
+{
+  "name": "aula-autenticacao-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aulas-Programacao-Web-Back-End/aula-autenticacao-jwt.git"
+  },
+  "keywords": [],
+  "author": "Luis Eduardo",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Aulas-Programacao-Web-Back-End/aula-autenticacao-jwt/issues"
+  },
+  "homepage": "https://github.com/Aulas-Programacao-Web-Back-End/aula-autenticacao-jwt#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
